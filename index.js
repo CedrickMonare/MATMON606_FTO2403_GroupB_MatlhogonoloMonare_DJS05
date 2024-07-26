@@ -1,4 +1,4 @@
-// Action types
+// Different action types
 const ADD = 'ADD';
 const SUBTRACT = 'SUBTRACT';
 const RESET = 'RESET';
